@@ -33,7 +33,7 @@ Note that each item has three elements:
 
 It is possible to redefine this variable with a subset of roles or with different tags. In general we suggest keeping the same structure and perhaps just using a subset.
 
-For more information about variables, see [top-level README](../../README.md). 
+For more information about variables, see [top-level README](../../README.md).
 For more information about roles, see each roles' README (also linked in the top-level README)
 
 ## License
